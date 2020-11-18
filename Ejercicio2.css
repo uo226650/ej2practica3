@@ -1,0 +1,24 @@
+/* InfoNavegador.css */
+body{
+    background-color:rgb(235, 220, 245);
+    color:black;
+}
+h1{
+    text-align:center;
+    color:rgb(39, 11, 65);
+}
+h2{
+    text-align:center;
+    color:rgb(77, 0, 128);
+}
+h3{
+    text-align:center;
+    color:rgb(149, 76, 218);
+}
+h4{
+    text-align:center;
+    color:rgb(33, 16, 41);
+}
+p{
+    color:black;
+}
